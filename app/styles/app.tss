@@ -1,0 +1,19 @@
+".container": {
+	backgroundColor:"white"
+}
+
+"Button": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,	
+	font: {
+		fontSize: 18
+	}
+}
+
+"Label": {
+	font: {
+		fontSize: 18,
+		fontWeight: 'bold'
+	},
+	color: 'black'
+}

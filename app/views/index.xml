@@ -1,0 +1,12 @@
+<Alloy>
+	<TabGroup id="tabGroup" exitOnClose="false">
+		<Tab title="TAB1">
+			<Window title="WIN TAB 1" class="container" >				
+				<Button bottom="50" onClick="openWindow">OPEN WINDOW</Button>
+			</Window>
+		</Tab>
+		<Tab title="TAB2">
+			<Window title="WIN TAB 2" backgroundColor="red" exitOnClose="false"></Window>
+		</Tab>
+	</TabGroup>
+</Alloy>

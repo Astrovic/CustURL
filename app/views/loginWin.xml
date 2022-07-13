@@ -1,0 +1,6 @@
+<Alloy>
+	<Window id="win" title="LOGIN WIN" backgroundColor="#aaff44" onOpen="onOpen" onClose="onClose" >
+		<Label id="lbl" top="50" />
+		<Button onClick="login">LOGIN HERE</Button>
+	</Window>		
+</Alloy>
